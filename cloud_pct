@@ -1,0 +1,13 @@
+
+
+
+cloud_pct.innerHTMl = response.cloud_pct
+temp.innerHTMl = response.temp
+feels_like.innerHTMl = response.feels_like
+humidity.innerHTMl  = response.humidity
+min_temp.innerHTMl = response.min_temp
+max_temp.innerHTMl = response.max_temp
+wind_speed.innerHTMl = response.wind_speed
+wind_degrees.innerHTMl = response.wind_degrees
+sunrise.innerHTMl = response.sunrise
+sunset.innerHTMl = response.sunset

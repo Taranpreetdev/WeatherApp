@@ -1,0 +1,22 @@
+* {
+    color:#53B3CB ;
+}
+
+#submit{
+    color:#0267C1;
+    border:2px solid lightblue;
+}
+
+#submit:hover{
+    background-color:#c4dcfc;
+    border:2px solid lightblue;
+
+    
+}
+.container-fluid{
+   background-color: white;
+}
+
+img{
+    padding-left: 20px;
+}
