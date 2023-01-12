@@ -20,3 +20,19 @@
 img{
     padding-left: 20px;
 }
+
+footer{
+    text-align: center;
+    display: grid!important;
+    justify-content: center!important;
+}
+
+p{
+    margin-top: none;
+    margin-bottom: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
