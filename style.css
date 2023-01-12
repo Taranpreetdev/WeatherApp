@@ -39,3 +39,10 @@ h1{
     font-size: 60px!important;
 }
 
+@media only screen and (max-width: 600px) {
+    
+.container-fluid{
+    display: flex!important;
+    justify-content: center!important;
+}
+  }
