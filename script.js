@@ -42,3 +42,19 @@ submit.addEventListener("click", (e) =>{
 })
 
 getWeather("Vancouver");
+
+var col=0;
+function changeCityColor() 
+{
+    if(col==0)
+    {
+        document.getElementById("cityName").style.color="red";
+        col=1;
+    }
+    else
+    {
+        document.getElementById("cityName").style.color="blue";
+        col=0;
+    }
+}
+setInterval(changeCityColor,500);
