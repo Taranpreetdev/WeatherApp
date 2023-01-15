@@ -57,7 +57,7 @@ function changeCityColor()
     }
     else
     {
-        document.getElementById("cityName").style.color="yellow";
+        document.getElementById("cityName").style.color="green";
         col=0;
     }
 }
